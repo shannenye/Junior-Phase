@@ -3,7 +3,7 @@
 # Init Setup
 - Make a folder
 - Initialize it as in node
-- ``` npm init -y ```
+- ``` npm init -y ``` (this creates a package.json file)
 - Install required modules
   - Use: ``` npm install --save PACKAGE_NAME ```
     - express
